@@ -1,0 +1,17 @@
+Package: ringostat
+Title: Load data from 'Ringostat API'
+Version: 0.1.0
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Loadind calls data from 'Ringostat API'. 
+    See <https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api>.
+License: MIT + file LICENSE
+Imports: httr2, stringr, cli, readr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
