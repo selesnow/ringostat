@@ -47,6 +47,7 @@ rs_get_call_data <- function(
              'has_recording',
              'scheme_name',
              'duration_ms',
+             'department',
              'caller_number'),
   filters = NULL,
   merge = 0,
@@ -70,7 +71,6 @@ rs_get_call_data <- function(
           req_headers('Auth-key' = Sys.getenv("RS_API_KEY")) %>%
           req_perform() %>%
           resp_body_string() %>%
-          str_sub(start = 1, end = -2) %>%
           I() %>%
           read_delim(delim  = ";", show_col_types = FALSE)
 
