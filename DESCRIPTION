@@ -1,6 +1,6 @@
 Package: ringostat
 Title: Load Data from 'Ringostat API'
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given  = "Alexey",
              family = "Seleznev",
@@ -9,7 +9,7 @@ Authors@R:
              comment = c(ORCID = "0000-0003-0410-7385")),
       person(given = "Netpeak",
              role = c("cph")))
-Description: Loadind calls data from 'Ringostat API'. 
+Description: Loading calls data from 'Ringostat API'. 
     See <https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api>.
 License: MIT + file LICENSE
 Imports: 
