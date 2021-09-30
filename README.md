@@ -22,6 +22,12 @@ devtools::install_github("selesnow/ringostat")
 
 Так же вместо авторизации вы можете сохранить свой API токен в переменную среды `RS_API_KEY`.
 
+## Где найти API ключ
+
+В интерфейсе Ringostat -> Интеграция -> Ringostat API -> Auth-key.
+
+![](http://img.netpeak.ua/alsey/1J8FEV.png)
+
 ### Автор пакета
 Алексей Селезнёв, Head of analytics dept. at [Netpeak](https://netpeak.net)
 <Br>Telegram Channel: @R4marketing
