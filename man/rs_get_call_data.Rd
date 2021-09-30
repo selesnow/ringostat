@@ -6,7 +6,7 @@
 \usage{
 rs_get_call_data(
   date_from = Sys.Date() - 14,
-  date_to = Sys.Date(),
+  date_to = Sys.time(),
   fields = c("caller", "dst", "pool_name", "disposition", "calldate", "category_mark",
     "duration", "call_type", "waittime", "billsec", "connected_with", "call_counter",
     "proper_flag", "repeated_flag", "utm_source", "utm_medium", "utm_campaign",

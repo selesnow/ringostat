@@ -12,7 +12,7 @@
 #'
 rs_get_call_data <- function(
   date_from = Sys.Date() - 14,
-  date_to = Sys.Date(),
+  date_to = Sys.time(),
   fields = c('caller',
              'dst',
              'pool_name',

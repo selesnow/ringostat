@@ -6,6 +6,8 @@
 \alias{ringostat-package}
 \title{ringostat: Load data from 'Ringostat API'}
 \description{
+\if{html}{\figure{logo.png}{options: align='right' alt='logo' width='120'}}
+
 Loadind calls data from 'Ringostat API'. 
     See <https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api>.
 }
