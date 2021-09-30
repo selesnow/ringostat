@@ -4,7 +4,7 @@
 \name{ringostat-package}
 \alias{ringostat}
 \alias{ringostat-package}
-\title{ringostat: Load data from 'Ringostat API'}
+\title{ringostat: Load Data from 'Ringostat API'}
 \description{
 \if{html}{\figure{logo.png}{options: align='right' alt='logo' width='120'}}
 
