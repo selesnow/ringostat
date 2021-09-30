@@ -8,10 +8,14 @@
 \description{
 \if{html}{\figure{logo.png}{options: align='right' alt='logo' width='120'}}
 
-Loadind calls data from 'Ringostat API'. 
-    See <https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api>.
+Loadind calls data from 'Ringostat API'. See <https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api>.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Alexey Seleznev \email{selesnow@gmail.com} (\href{https://orcid.org/0000-0003-0410-7385}{ORCID})
+
+Other contributors:
+\itemize{
+  \item Netpeak [copyright holder]
+}
 
 }
