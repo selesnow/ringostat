@@ -10,7 +10,12 @@ Authors@R:
 Description: Loadind calls data from 'Ringostat API'. 
     See <https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api>.
 License: MIT + file LICENSE
-Imports: httr2, stringr, cli, readr
+Imports: 
+    httr2,
+    stringr,
+    cli,
+    readr,
+    lifecycle
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
