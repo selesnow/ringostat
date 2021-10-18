@@ -5,7 +5,10 @@
 #'
 #' @return TRUE if has been downloaded successfully
 #' @export
-#'
+#' @examples
+#' \dontrun{
+#' rs_download_record("ua-987h79879")
+#' }
 rs_download_record <- function(
   call_id,
   out_file = NULL

@@ -38,3 +38,14 @@ tibble with calls data
 \description{
 Get calls data
 }
+\examples{
+\dontrun{
+calls <- rs_get_call_data(
+    date_from = "2021-09-01",
+    date_to = "2021-09-30",
+    fields = c('caller', 'utm_campaign'),
+    filters = "utm_campaign=brand"
+)
+}
+
+}

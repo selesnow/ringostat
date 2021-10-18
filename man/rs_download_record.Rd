@@ -17,3 +17,8 @@ TRUE if has been downloaded successfully
 \description{
 Download call recording
 }
+\examples{
+\dontrun{
+rs_download_record("ua-987h79879")
+}
+}
