@@ -1,3 +1,7 @@
+# ringostat (development version)
+
+* В README добавлен раздел туториалы, и в него добавлена ссылка на статью ["https://blog.ringostat.com/ru/kak-rabotat-s-ringostat-api-na-yazyke-r/"](https://blog.ringostat.com/ru/kak-rabotat-s-ringostat-api-na-yazyke-r/).
+
 # ringostat 0.1.4
 
 * Исправил фильтр по периоду в функции загрузки звонков.

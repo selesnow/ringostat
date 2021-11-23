@@ -1,6 +1,6 @@
 Package: ringostat
 Title: Load Data from 'Ringostat API'
-Version: 0.1.4
+Version: 0.1.4.9000
 Authors@R: 
     c(person(given  = "Alexey",
              family = "Seleznev",

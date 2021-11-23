@@ -30,6 +30,10 @@ devtools::install_github("selesnow/ringostat")
 
 ![](http://img.netpeak.ua/alsey/1J8FEV.png)
 
+## Туториалы
+
+* [Как работать с Ringostat API на языке R](https://blog.ringostat.com/ru/kak-rabotat-s-ringostat-api-na-yazyke-r/)
+
 ### Автор пакета
 Алексей Селезнёв, Head of analytics dept. at [Netpeak](https://netpeak.net)
 <Br>Telegram Channel: @R4marketing
