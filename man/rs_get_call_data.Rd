@@ -13,7 +13,8 @@ rs_get_call_data(
     "utm_content", "utm_term", "uniqueid", "category_number", "employee_number",
     "employee_mark", "client_id", "remote_ip", "refferrer", "landing", "recording",
     "recording_wav", "call_card", "additional_number", "has_recording", "scheme_name",
-    "duration_ms", "department",      "caller_number"),
+    "duration_ms", "department", 
+     "caller_number"),
   filters = NULL,
   merge = 0,
   order = NULL

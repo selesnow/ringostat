@@ -6,9 +6,9 @@
 \alias{ringostat-package}
 \title{ringostat: Load Data from 'Ringostat API'}
 \description{
-\if{html}{\figure{logo.png}{options: align='right' alt='logo' width='120'}}
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
 
-Loading calls data from 'Ringostat API'. See <https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api>.
+Loading calls data from 'Ringostat API'. See \url{https://help.ringostat.com/knowledge-base/article/integration-with-ringostat-via-api}.
 }
 \author{
 \strong{Maintainer}: Alexey Seleznev \email{selesnow@gmail.com} (\href{https://orcid.org/0000-0003-0410-7385}{ORCID})

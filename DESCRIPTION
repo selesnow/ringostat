@@ -1,6 +1,6 @@
 Package: ringostat
 Title: Load Data from 'Ringostat API'
-Version: 0.1.4.9000
+Version: 0.1.5
 Authors@R: 
     c(person(given  = "Alexey",
              family = "Seleznev",
@@ -16,9 +16,8 @@ Imports:
     httr2,
     stringr,
     cli,
-    readr (>= 2.0.0),
-    lifecycle
+    readr (>= 2.0.0)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
