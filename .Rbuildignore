@@ -3,3 +3,5 @@
 ^LICENSE\.md$
 .*wav.*
 \_config.yml
+^cran-comments\.md$
+^CRAN-SUBMISSION$
